@@ -101,3 +101,5 @@ To install a specific StarterKit from GitHub type:
     npm install [starterkit-vendor/starterkit-name]
 
     gulp patternlab:loadstarterkit --kit=[starterkit-name]
+
+    test 
